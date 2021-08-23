@@ -1,5 +1,5 @@
-##Example of Working with Remotes    
---------------------------------------------------
+#Example of Working with Remotes    
+---
 0. Clone to your local repository.
     * Create an **empty** repository on Github for your code.
     ```
